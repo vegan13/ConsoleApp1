@@ -9,6 +9,7 @@ namespace ConsoleApp1
             string name = "Lucjan";
             Console.WriteLine("Hello World!!");
             Console.WriteLine("Nazywam się Lucjan i tworzę moją aplikację, która uwolni mnie od etatu i da wolność finansową");
+            Console.WriteLine("Jeszcze jedna linijka tekstu");
         }
     }
 
